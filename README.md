@@ -4,10 +4,11 @@ A simple PHP-based chat application for two users (person1 and person2).
 
 ## Setup
 
-1. Import `sql/database.sql` into MySQL to create the database.
-2. Update database credentials in `config/database.php` if needed.
-3. Start Apache and MySQL in XAMPP.
-4. Access `http://localhost/Communiction App/`
+1. PUT ALL THE FILE IN FOLDER AND NAME IT ##Communication App
+2. Import `sql/database.sql` into MySQL to create the database.
+3. Update database credentials in `config/database.php` if needed.
+4. Start Apache and MySQL in XAMPP.
+5. Access `http://localhost/Communiction App/`
 
 ## Features
 
